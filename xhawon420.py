@@ -1203,10 +1203,10 @@ def m5(idf,pw):
 # INDIA X PAKISTAN -- MAIN DEF #
 
 if __name__=='__main__':
-  try:os.mkdir('Xhawon-HASAN' )
+  try:os.mkdir('Xhawon-YT' )
   except:pass
-  try:os.mkdir('QUEEN-TISHA')
-  except:pass
+  try:os.mkdir('-')
+  except:YT
 #  b2()
 #  mainx() 
   mainx()

@@ -304,17 +304,13 @@ def banner():
 ██          ██ ██  ██ ██      ██ 
 ███████     ██ ██   ████      ██                                                             \033[91;1m
 ╔════════════════════════════════════════╗
-║ [💸] CODED BY : Xhawon    
+║ 
 ║ [💸] GITHUB   : Xhawon-404            
-║ [💸] GITHUB   : Xhawon-404
-║ [💸] VERSION  : 0.0.1              
-║ HACKED   : \033[1;32mSK. Xhawon\033[1;37m              
-╚════════════════════════════════════════╝ {P}""")
-    print(f"""{GREEN}    SELL DONE{P}
- {K}[{H}√{K}]{P} This message is for my haters 
- {K}[{H}√{K}]{P}       {H} The Xhawon Is BACK 
- {K}[{H}√{K}]{P} Successfully Update Done {H}0.0.1""");print(led)
 
+
+║ [💸] VERSION  : 0.0.2            
+║       
+╚════════════════════════════════════════╝ 
 
 c0=('ht')
 c4=('tps://')
